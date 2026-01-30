@@ -32,6 +32,7 @@ NGINX is one of the most popular tools used as a reverse proxy in production.
 ## 📝 Reverse Proxy Configuration (Ubuntu/Linux)
 
 ### 🔧 File: `/etc/nginx/sites-available/default`
+### According to Prashant pathe & file is '/etc/nginx/nginx.conf' rest all are same
 
 Update the existing `server` block or create a new one:
 
