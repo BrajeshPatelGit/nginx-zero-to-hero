@@ -133,7 +133,7 @@ http://localhost
 | `/etc/nginx/sites-available/default` | Active site config for reverse proxy   |
 | `/var/www/html`                   | Not used in reverse proxy               |
 | `/var/log/nginx/access.log`       | Logs all requests                       |
-
+| `/usr/share/nginx/html/`          | Actual HTML file                        |
 ---
 
 ## ✅ Summary
